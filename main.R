@@ -1,0 +1,10 @@
+install.packages('DT')
+yes
+install.packages('shiny')
+yes
+yes
+yes
+library('DT')
+install.packages('rvest')
+yes
+library(rvest)
